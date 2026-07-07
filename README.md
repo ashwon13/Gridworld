@@ -36,7 +36,7 @@ Everything runs on plain **Python 3**. There is nothing to install.
 ---
 
 ## Quick start
-
+Quick Note: This readme was partially written with the help of AI. The code was written entirely by me but the readme was partially made with the help of a generative ai tool.
 ```bash
 # A 4x4 grid (16 cells) with a reward on cell 15, solved by dynamic programming:
 python RLDP.py G16 V15R
@@ -339,4 +339,4 @@ A two‑way jump now links cells 0 and 15, worth 5 to traverse.
 
 ---
 
-*Author: Ashwin Pulla, 2024.* (READ ME WAS MADE WITH AI CODE WAS NOT. CODE WAS ENTIRELY CREATED BY ME ASHWIN PULLA)
+*Author: Ashwin Pulla, 2024.*
